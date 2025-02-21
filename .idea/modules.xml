@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestEasyFont.iml" filepath="$PROJECT_DIR$/TestEasyFont.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app-debug/app-debug.iml" filepath="$PROJECT_DIR$/app-debug/app-debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/easyfonts/easyfonts.iml" filepath="$PROJECT_DIR$/easyfonts/easyfonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyFonts.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyFonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-debug/EasyFonts.app-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/app-debug/EasyFonts.app-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyFonts.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.iml" filepath="$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/easyfonts/EasyFonts.easyfonts.unitTest.iml" />
     </modules>
   </component>
 </project>
-
