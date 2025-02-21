@@ -18,7 +18,7 @@
     <content url="file://$MODULE_DIR$/../../../easyfonts/build/generated/ap_generated_sources/debugUnitTest/out" />
     <content url="file://$MODULE_DIR$/../../../easyfonts/src/test" />
     <content url="file://$MODULE_DIR$/../../../easyfonts/src/testDebug" />
-    <orderEntry type="jdk" jdkName="Android API 34, extension level 7 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 33 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="EasyFonts.easyfonts.main" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:appcompat-v7:22.2.0@aar" level="project" />
